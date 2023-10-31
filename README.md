@@ -1,5 +1,6 @@
 # Hair-Texture-Identifier
 ![Logo](curly_hair.png)
+
 Harness the latest advancements in artificial intelligence to precisely distinguish between curly and straight hair, revolutionizing the way you discover hair care products tailored to your unique hair texture.
 
 ## Problem
