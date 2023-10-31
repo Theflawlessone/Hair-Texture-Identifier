@@ -1,2 +1,2 @@
 # Hair-Texture-Identifier
-[Image](Texture_Identifier_Logo)
+[Logo](Texture_Identifier_Logo.png)
