@@ -18,3 +18,6 @@ Addressing this problem requires improvements in AI training data, more inclusiv
 
 ## Data Deck
 [Data_Deck](https://docs.google.com/presentation/d/1mATs77DNphkXvP1BRh-J_wFg3ptQ-K5wyM0xJHjR4pk/edit?usp=sharing)
+
+## Alexnet Filters
+[Alexnet Filters](https://colab.research.google.com/drive/1h5G64TCkruibmEOqh0kwUp_-pb3AKZp4?usp=sharing)
