@@ -1,6 +1,6 @@
 # Hair-Texture-Identifier
 ![Logo](curly_hair.png)
-[Image](https://99percentinvisible.org/app/uploads/2018/04/hair-chart.gif)
+![Image](hair-chart.GIF)
 Harness the latest advancements in artificial intelligence to precisely distinguish between curly and straight hair, revolutionizing the way you discover hair care products tailored to your unique hair texture.
 
 ## Problem
