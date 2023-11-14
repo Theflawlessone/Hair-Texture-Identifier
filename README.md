@@ -4,6 +4,8 @@
 ![Image](hair-chart.GIF)
 
 Harness the latest advancements in artificial intelligence to precisely distinguish between curly and straight hair, revolutionizing the way you discover hair care products tailored to your unique hair texture.
+![image](https://github.com/Theflawlessone/Hair-Texture-Identifier/assets/142954344/db619f13-c9cc-44b0-a1c0-e78680337233)
+
 
 ## Problem Business aspects
 In a business context, the differences between curly hair and straight hair don't inherently present problems. However, various industries and businesses may be impacted by these differences in the context of beauty and personal care. Here's how these differences can relate to business aspects:
