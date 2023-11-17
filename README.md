@@ -33,7 +33,7 @@ Training Loop: A training loop is initiated with a set number of epochs. Within 
 Initialization and Configuration: It initializes the Weights and Biases project and sets various configuration parameters such as learning rate, batch size, and the number of training epochs.
 
 Optimization and Logging: The code enters the training loop, where the model is updated using the Adam optimizer, and loss and accuracy metrics are logged.
-## Weights and Biased Results
+## Weights and Biases Results
 ![Logo](Wand_B_results.png)
 
 ## Data Deck
