@@ -11,6 +11,8 @@ In contrast, the inherent differences between curly and straight hair can pose c
 
 
 ## Solution
+![image](https://github.com/Theflawlessone/Hair-Texture-Identifier/assets/142954344/e9f8c5ca-a872-490b-bc28-c83b81a37bb2)
+
 Using google colab I implemented these types of code: 
 Loading Labels and Pre-trained Model: It loads labels for the model's classes and initializes a pre-trained AlexNet model.
 
