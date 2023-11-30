@@ -35,6 +35,17 @@ Training Loop: A training loop is initiated with a set number of epochs. Within 
 Initialization and Configuration: It initializes the Weights and Biases project and sets various configuration parameters such as learning rate, batch size, and the number of training epochs.
 
 Optimization and Logging: The code enters the training loop, where the model is updated using the Adam optimizer, and loss and accuracy metrics are logged.
+
+Visualization of Model Parameters: The code visualizes the weights of the first convolutional layer (w0) and plots them along with feature maps, providing insights into the learned filters.
+
+Feature Extraction: Convolutional and pooling layers are applied to the image, generating feature maps at different stages of the model.
+
+Fully Connected Layers: The code processes the feature maps through fully connected layers, performing linear transformations and ReLU activations.
+
+Classification Result: The final classification result is obtained by determining the output neuron with the highest activation in the last fully connected layer.
+
+Visualization of Feature Maps and Filters: The code includes functions to visualize feature maps with overlaid filters, providing a deeper understanding of the model's internal representations.
+
 ## Weights and Biases Results
 ![Logo](Wand_B_results.png)
 
