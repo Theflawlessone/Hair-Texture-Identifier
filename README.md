@@ -41,5 +41,8 @@ Optimization and Logging: The code enters the training loop, where the model is 
 ## Data Deck
 [Data_Deck](https://docs.google.com/presentation/d/1mATs77DNphkXvP1BRh-J_wFg3ptQ-K5wyM0xJHjR4pk/edit?usp=sharing)
 
-## Alexnet Filters
-[Alexnet Filters](https://colab.research.google.com/drive/1h5G64TCkruibmEOqh0kwUp_-pb3AKZp4?usp=sharing)
+## Data Deck loaded in Alexnet
+[Data Deck in Alexnet](https://colab.research.google.com/drive/1h5G64TCkruibmEOqh0kwUp_-pb3AKZp4?usp=sharing)
+
+## Linear Model Training with PyTorch and WandB
+[Alexnet](https://colab.research.google.com/drive/1SQi159ufFoVHudDnTQ88ZHq3FO5FNqbU?usp=sharing)
