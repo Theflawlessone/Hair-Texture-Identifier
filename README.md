@@ -3,6 +3,8 @@
 
 Harness the latest advancements in artificial intelligence to precisely distinguish between curly and straight hair, revolutionizing the way you discover hair care products tailored to your unique hair texture.
 
+![image](https://github.com/Theflawlessone/Hair-Texture-Identifier/assets/142954344/6d906aaf-72e6-4e04-8631-f3fdfcc151f2)
+
 ## Problem
 The distinctions between curly and straight hair extend beyond mere aesthetics, delving into a realm of unique challenges and considerations, particularly within the beauty and personal care industry. Haircare companies tailor their products to cater to different hair types, addressing issues such as frizz, dryness, and styling preferences. Salons may specialize in serving clients with specific hair types, creating niche business opportunities. The manufacturing of hair tools and appliances also takes into account the diverse needs of individuals with curly or straight hair. Representation and inclusivity in marketing campaigns and partnerships with influencers play a crucial role in reflecting the diversity of the customer base.
 
@@ -13,7 +15,6 @@ In contrast, the inherent differences between curly and straight hair can pose c
 
 
 ## Solution
-![image](https://github.com/Theflawlessone/Hair-Texture-Identifier/assets/142954344/e9f8c5ca-a872-490b-bc28-c83b81a37bb2)
 
 Using google colab I implemented these types of code: 
 Loading Labels and Pre-trained Model: It loads labels for the model's classes and initializes a pre-trained AlexNet model.
