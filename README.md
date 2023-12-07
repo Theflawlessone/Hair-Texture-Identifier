@@ -66,4 +66,6 @@ This code implements a linear classification model using PyTorch and Weight & Bi
 
 ## Filters and Feature Maps
 ![Map](feature_map.png)
+This Python code employs a pretrained AlexNet model from PyTorch to classify an image fetched from a URL. The process includes loading the model, preprocessing the image, and obtaining a classification result. The code further visualizes the model's parameters, including convolutional filters and feature maps, providing insights into its internal representations. Additionally, it demonstrates the application of activation functions, max pooling, and multiple convolutional layers in the feature extraction process. The final output is the predicted class label for the input image, showcasing the model's capabilities in image classification.
+
 [Filters and Feature Maps](https://colab.research.google.com/drive/1QrXVnk21dBjcx8biWkUlDiwdGKvVR9Ex?usp=sharing)
