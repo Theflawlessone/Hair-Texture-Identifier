@@ -54,12 +54,14 @@ Visualization of Feature Maps and Filters: The code includes functions to visual
 
 ## Data Deck
 In my data deck, I deliberately incorporated diverse variables such as race, gender, and age to present a more comprehensive and challenging dataset for the AI. This intentional diversity aims to test and enhance the model's ability to accurately differentiate between curly and straight hair across various demographic factors.
+
 [Data_Deck](https://docs.google.com/presentation/d/1mATs77DNphkXvP1BRh-J_wFg3ptQ-K5wyM0xJHjR4pk/edit?usp=sharing)
 
 ## Data Deck loaded in Alexnet
 [Data Deck in Alexnet](https://colab.research.google.com/drive/1h5G64TCkruibmEOqh0kwUp_-pb3AKZp4?usp=sharing)
 
 ## Linear Model Training with PyTorch and WandB
+This code implements a linear classification model using PyTorch and Weight & Biases (W&B) for logging. The model is trained to classify images into two classes (possibly curly or straight hair) using a training loop with an Adam optimizer. The training data is obtained from a Google Slides presentation, and the images are preprocessed before being fed into the model. The training progress and loss are logged using W&B, and the model's performance is visualized. The code also includes functions for generating random numbers, defining softmax and cross-entropy loss, and initializing model parameters. The overall goal is to train a linear model to differentiate between hair textures in a diverse dataset.
 [Alexnet](https://colab.research.google.com/drive/1SQi159ufFoVHudDnTQ88ZHq3FO5FNqbU?usp=sharing)
 
 ## Filters and Feature Maps
