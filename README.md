@@ -47,6 +47,7 @@ Fully Connected Layers: The code processes the feature maps through fully connec
 Classification Result: The final classification result is obtained by determining the output neuron with the highest activation in the last fully connected layer.
 
 Visualization of Feature Maps and Filters: The code includes functions to visualize feature maps with overlaid filters, providing a deeper understanding of the model's internal representations.
+![image](https://github.com/Theflawlessone/Hair-Texture-Identifier/assets/142954344/e9f8c5ca-a872-490b-bc28-c83b81a37bb2)
 
 ## Weights and Biases Results
 ![Logo](Wand_B_results.png)
