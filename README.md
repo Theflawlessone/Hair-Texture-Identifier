@@ -15,6 +15,7 @@ In contrast, the inherent differences between curly and straight hair can pose c
 ## Solution
 
 Using google colab I implemented these types of code: 
+
 Loading Labels and Pre-trained Model: It loads labels for the model's classes and initializes a pre-trained AlexNet model.
 
 Downloading Google Slides Images: It fetches images from a Google Slides presentation by first downloading the presentation as a PDF and then converting PDF pages to images.
