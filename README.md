@@ -24,9 +24,9 @@ Data Preprocessing: The images are preprocessed, resized, and normalized to prep
 
 Model Inference: It uses the pre-trained AlexNet model to make predictions on the processed images.
 
-Classification Results: The code determines the model's predictions and prints the corresponding labels for each image. It also appears to be setting up some binary classification data, but it's unclear how it's being used in the context of the code.
+Classification Results: The code determines the model's predictions and prints the corresponding labels for each image. Sets up binary classification data.
 
-Data Conversion and Preparation: The code sets up some data arrays and reshapes them for further processing.
+Data Conversion and Preparation: The code sets up data arrays and reshapes them for further processing.
 
 Defining Loss Functions: The code defines a softmax function and a cross-entropy loss function.
 
