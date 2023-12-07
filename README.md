@@ -10,6 +10,7 @@ The distinctions between curly and straight hair extend beyond mere aesthetics, 
 
 In contrast, the inherent differences between curly and straight hair can pose challenges. Curly hair often demands more maintenance and is susceptible to frizz and breakage, while straight hair may lack natural volume. AI systems in e-commerce and search engines can face issues related to data bias, limited contextual understanding, and inadequate image recognition, potentially leading to inaccurate recommendations for hair products. Addressing these challenges requires improvements in AI training data, more inclusive datasets, and enhanced algorithms capable of distinguishing between various hair types. As technology evolves, efforts to reduce bias and enhance the recognition of diverse hair textures are essential for providing fair and effective user experiences in the beauty and personal care industry.
 ![image](https://github.com/Theflawlessone/Hair-Texture-Identifier/assets/142954344/6d906aaf-72e6-4e04-8631-f3fdfcc151f2)
+![image](https://github.com/Theflawlessone/Hair-Texture-Identifier/assets/142954344/9b83f73b-9b00-43f8-a52d-83f6aa35dd1c)
 
 
 ## Solution
