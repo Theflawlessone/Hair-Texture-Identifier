@@ -52,6 +52,7 @@ Visualization of Feature Maps and Filters: The code includes functions to visual
 ![Logo](Wand_B_results.png)
 
 ## Data Deck
+In my data deck, I deliberately incorporated diverse variables such as race, gender, and age to present a more comprehensive and challenging dataset for the AI. This intentional diversity aims to test and enhance the model's ability to accurately differentiate between curly and straight hair across various demographic factors.
 [Data_Deck](https://docs.google.com/presentation/d/1mATs77DNphkXvP1BRh-J_wFg3ptQ-K5wyM0xJHjR4pk/edit?usp=sharing)
 
 ## Data Deck loaded in Alexnet
